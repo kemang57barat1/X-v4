@@ -1,0 +1,106 @@
+{
+
+ "Account": {
+     "Username": "maher57",
+     "Password": "anakku57sayang"
+     },
+ "Target Profit": "1.5",
+ "Target Win": "4183.85490206",
+ "Lose Target": "1000.00000",
+ "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "Khusus Balance Di Atas 10000 Doge",
+     "Base Bet": "0.05",
+     "Max Bet": "OFF",
+     "Chance": "8",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "80",
+          "Max": "85"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "Off",
+              "If Lose": "1",
+              "If Win": "2"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.11",
+     "Reset If Win": "1",
+     "Reset If Profit": "OFF",
+     "Reset If Lose Streak": {
+           "Toggle": "OFF",
+           "Lose Streak": "12"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "Betset Mining Aman Chance 75% Note Aktifkan Autowd Dan Repeat Misal ballance 300 Setting If Balance 315 Dan Amount Nya 5",
+     "Base Bet": "0.1",
+     "Max Bet": "Off",
+     "Chance": "95",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "6",
+          "Max": "10"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "3",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "30",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.00220000",
+     "Reset If Lose Streak": {
+           "Toggle": "Off",
+           "Lose Streak": "6"
+        },
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "3",
+     "Base Bet": "0.01",
+     "Max Bet": "OFF",
+     "Chance": "50",
+     "Random Chance": {
+          "Toggle": "on",
+          "Min": "5",
+          "Max": "50"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "0",
+              "If Win": "2"
+            }
+        },
+     "If Win": "1.5",
+     "If Lose": "1.5",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.00001",
+     "Reset If Lose Streak": {
+           "Toggle": "On",
+           "Lose Streak": "9"
+        },
+     "Interval": "1"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "ON",
+       "If Balance": "2216.56595280",
+       "Wallet Address": "DHnS6dpNEyAjXcg8gK3BRvTYV5n35vbWvN",
+       "Amount": "6.00000000",
+       "Repeat": "ON"
+      },
+  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+
+}
