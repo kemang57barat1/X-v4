@@ -39,16 +39,16 @@
      },{
 
      "Name Bet Set": "Betset Mining Aman Chance 75% Note Aktifkan Autowd Dan Repeat Misal ballance 300 Setting If Balance 315 Dan Amount Nya 5",
-     "Base Bet": "0.1",
+     "Base Bet": "0.001",
      "Max Bet": "Off",
-     "Chance": "95",
+     "Chance": "75",
      "Random Chance": {
           "Toggle": "OFF",
           "Min": "6",
           "Max": "10"
         },
      "Bet": {
-          "Bet": "Hi",
+          "Bet": "Low",
           "Hi / Low": {
               "Toggle": "OFF",
               "If Lose": "3",
@@ -56,12 +56,12 @@
             }
         },
      "If Win": "1",
-     "If Lose": "30",
+     "If Lose": "3.75",
      "Reset If Win": "1",
-     "Reset If Profit": "0.00220000",
+     "Reset If Profit": "0.220000",
      "Reset If Lose Streak": {
            "Toggle": "Off",
-           "Lose Streak": "6"
+           "Lose Streak": "3"
         },
      "Interval": "1"
      },{
@@ -96,7 +96,7 @@
   ],
   "Auto Wd": {
        "Toggle": "ON",
-       "If Balance": "2216.56595280",
+       "If Balance": "1216.56595280",
        "Wallet Address": "DHnS6dpNEyAjXcg8gK3BRvTYV5n35vbWvN",
        "Amount": "6.00000000",
        "Repeat": "ON"
