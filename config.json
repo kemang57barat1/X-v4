@@ -4,7 +4,7 @@
      "Username": "maher57",
      "Password": "anakku57sayang"
      },
- "Target Profit": "6",
+ "Target Profit": "4",
  "Target Win": "4183.85490206",
  "Lose Target": "1000.00000",
  "Interval": "1",
@@ -39,7 +39,7 @@
      },{
 
      "Name Bet Set": "Betset Mining Aman Chance 75% Note Aktifkan Autowd Dan Repeat Misal ballance 300 Setting If Balance 315 Dan Amount Nya 5",
-     "Base Bet": "0.02",
+     "Base Bet": "0.004",
      "Max Bet": "Off",
      "Chance": "75",
      "Random Chance": {
@@ -96,9 +96,9 @@
   ],
   "Auto Wd": {
        "Toggle": "ON",
-       "If Balance": "1612.56595280",
+       "If Balance": "612.56595280",
        "Wallet Address": "DHnS6dpNEyAjXcg8gK3BRvTYV5n35vbWvN",
-       "Amount": "11.00000000",
+       "Amount": "6.00000000",
        "Repeat": "ON"
       },
   "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
